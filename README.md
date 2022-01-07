@@ -1,8 +1,9 @@
 #EXTM3U 
-
+#EXTINF:-1 tvg-id="ElPalomarTv" tvg-country="AR" tvg-http://tvabierta.weebly.com/el-palomar-tv.html
 #EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="NOTICIAS", IP  24.5 
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8   
-
+#EXTINF:-1 group-title="INTERNACIONAL", RTVE ESPAÑA
+https://www.youtube.com/channel/UC7QZIf0dta-XPXsp9Hv4dTw/live
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title="NOTICIAS", CRONICA HD  24.4 
 https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 
@@ -272,7 +273,10 @@ https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/playlist.m3u
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/907114710088241152/kEDLAPN4_400x400.jpg" group-title="AMBA", CINCO TV TIGRE  30.1
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Radio_rockpop.png" group-title="CABA", ROCK AND POP *
+https://14623.live.streamtheworld.com/ROCKANDPOPAAC_SC
+#EXTINF:-1   tvg-logo="https://cdn.discordapp.com/attachments/821772446185029674/881242869116076092/LTO_Radio_Logo.png" group-title="RADIO", LTO RADIO CATAMARCA *
+http://node-18.zeno.fm/yzb4tysszk0uv?rj-ttl=5&rj-tok=AAABegIQu38AvyiMzDm__8L15w
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/894572709170032640/lf59GoQx_400x400.jpg" group-title="AMBA", TELECREATIVA LANUS
 https://panel.dattalive.com/8012/8012/playlist.m3u8
@@ -304,11 +308,13 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="AMBA", TyC SPORT 
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_Cadena3.jpg/1200px-Logo_Cadena3.jpg" group-title="CABA", CADENA 3 *
+https://20823.live.streamtheworld.com/CADENA3_SC
 
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="AMBA", GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w2049053275_b1296000_sleng.m3u8
-
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/88feb4de6cabd53d7af9879e56131cbd.jpg" group-title="CABA", RADIO VALE 97.5 FM *
+http://vale.stweb.tv:1935/vale/live/playlist.m3u8
 #EXTINF:-1 group-title="AMBA", AMERICA SPORTS
 https://www.youtube.com/watch?v=NN1RjlCURBc
 
@@ -478,7 +484,11 @@ https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.tycsports.com/files/2020/11/12/138170/uno-contra-uno_862x485.jpg" group-title="CORDOBA", UNO CONTRA UNO TV
 https://stmvideo1.livecastv.com/ucuweb/ucuweb/playlist.m3u8
+#EXTINF:-1 group-title="INFANTIL", TOM & JERRY
+https://www.youtube.com/channel/UCB82v6uKp1S-I-DVoL2neDA/live
 
+#EXTINF:-1 group-title="INFANTIL", MARATON PANTERA ROSA
+https://www.youtube.com/watch?v=OMbY_OHYrf0
 
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/america-tucuman.png" group-title="NORTE", AMERICA TUCUMAN
@@ -496,6 +506,8 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?t
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---X24.png" group-title="NORTE", X24 TUCUMAN 
 https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
 
+#EXTINF:-1   tvg-logo="https://cdn.discordapp.com/attachments/821772446185029674/881242869116076092/LTO_Radio_Logo.png" group-title="RADIO", LTO RADIO CATAMARCA *
+http://node-18.zeno.fm/yzb4tysszk0uv?rj-ttl=5&rj-tok=AAABegIQu38AvyiMzDm__8L15w
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1097897648948948992/bS8JOGDt_400x400.png" group-title="NORTE", CANAL 5 TUCUMAN
 https://videohd.live:19360/8090/8090.m3u8
